@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Muhammad Hashir Salman`
+- **CCID:** `27100450`
 
 ## References and Resources
 
